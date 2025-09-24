@@ -196,7 +196,7 @@ urlpatterns = [
 ### 4️⃣ Test with Postman
 - Run Django server:  
   ```bash
-  python manage.py runserver
+  cd emotion_api; python manage.py runserver
   ```
 - In **Postman**, send a **POST request** to:  
   `http://127.0.0.1:8000/predict-emotion`  
