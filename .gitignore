@@ -46,4 +46,4 @@ ENV/
 .DS_Store
 Thumbs.db
 
-.png
+*.png
